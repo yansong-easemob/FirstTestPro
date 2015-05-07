@@ -2,3 +2,4 @@ abcd
 efgh
 i am from branch B
 add second from branch B
+add thrid from branch C
