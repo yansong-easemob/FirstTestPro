@@ -1,6 +1,0 @@
-abcd
-efgh
-i am from branch Master
-Add temp2 branch
-
-Add temp1 branch
