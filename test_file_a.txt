@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-I am the temp1 branch
+mmmmmmI am the temp1 branch
 The remote temp1 branch
 =======
 abcd
